@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ahmadinios
+- 👀 I’m interested in learning NetLogo and creating ABM'S for sociological theories 
+- 🌱 I’m currently learning on using NetLogo
